@@ -1,25 +1,12 @@
-# Hi 👋 I'm Alisha Arora
+# Hi I'm Alisha Arora
 
-## 🎓 About ME
-I am a Systems Design Engineering student at the University of Waterloo with a passion for developing AI and machine learning solutions that drive social impact, sustainability, and innovation. 
+# About me!
+I am a Systems Design Engineering student at the University of Waterloo, driven by a deep interest in building intelligent systems that sit at the intersection of AI, software, and real-world impact. I recently interned at Shopify, where I worked on transformer-based recommendation systems, contributing to work that explored semantic representations, large-scale modeling, and the future of generative recommendation. I have also worked on Climate-AI initiatives at TELUS, contributed to applied technology projects in collaboration with Microsoft, and served as the youngest research assistant at MIT’s AI Lab.
 
-
-## 🚀 What I'm Up To
-- 🤖 **Optimizing large language models (LLMs)** using techniques like quantization and Mixture of Experts (MoEs) to reduce emissions and enhance efficiency  
+# What I'm Currenly Up To
+- 🤖 **Optimizing large language models (LLMs)** using techniques like quantization and Mixture of Experts (MoEs) to reduce emissions and enhance efficiency
+- 💻 **Building intuitive front-end applications** using modern frameworks (React, TypeScript, Tailwind) to translate complex systems into clean, human-centered user experiences
+- 🧠 **Conducting foundation model–based research** exploring representation learning, scaling behavior, and alignment techniques for more capable and responsible AI systems
 - 🌱 **Building AI and machine learning applications** for mental health, sustainability, and equitable access to technology  
 
 Check out my [personal website](https://alishaarora.net) for projects and updates!
-
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alishaarora56/)
-
----
-
-## 💻 Tech Stack:
-Languages:  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-yellow?logo=c%2B%2B&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
